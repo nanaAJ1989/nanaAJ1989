@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nanaAJ1989
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning python
